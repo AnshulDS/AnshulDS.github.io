@@ -1,0 +1,62 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	modified:   sequence/webapp/.next/app-build-manifest.json
+#	modified:   sequence/webapp/.next/cache/webpack/client-development/1.pack.gz
+#	new file:   sequence/webapp/.next/cache/webpack/client-development/2.pack.gz
+#	new file:   sequence/webapp/.next/cache/webpack/client-development/3.pack.gz
+#	new file:   sequence/webapp/.next/cache/webpack/client-development/4.pack.gz
+#	modified:   sequence/webapp/.next/cache/webpack/client-development/index.pack.gz
+#	modified:   sequence/webapp/.next/cache/webpack/client-development/index.pack.gz.old
+#	modified:   sequence/webapp/.next/cache/webpack/server-development/0.pack.gz
+#	new file:   sequence/webapp/.next/cache/webpack/server-development/1.pack.gz
+#	new file:   sequence/webapp/.next/cache/webpack/server-development/2.pack.gz
+#	modified:   sequence/webapp/.next/cache/webpack/server-development/index.pack.gz
+#	new file:   sequence/webapp/.next/cache/webpack/server-development/index.pack.gz.old
+#	modified:   sequence/webapp/.next/server/app-paths-manifest.json
+#	new file:   sequence/webapp/.next/server/app/_not-found_client-reference-manifest.js
+#	new file:   sequence/webapp/.next/server/app/not-found.js
+#	new file:   sequence/webapp/.next/server/app/not-found_client-reference-manifest.js
+#	modified:   sequence/webapp/.next/server/app/page.js
+#	modified:   sequence/webapp/.next/server/app/page_client-reference-manifest.js
+#	modified:   sequence/webapp/.next/server/vendor-chunks/next.js
+#	modified:   sequence/webapp/.next/server/webpack-runtime.js
+#	modified:   sequence/webapp/.next/static/chunks/app/layout.js
+#	new file:   sequence/webapp/.next/static/chunks/app/not-found.js
+#	modified:   sequence/webapp/.next/static/chunks/app/page.js
+#	modified:   sequence/webapp/.next/static/chunks/webpack.js
+#	modified:   sequence/webapp/.next/static/css/app/layout.css
+#	new file:   sequence/webapp/.next/static/webpack/2a05457bff26bdd0.webpack.hot-update.json
+#	new file:   sequence/webapp/.next/static/webpack/2d0f650e01e93b49.webpack.hot-update.json
+#	new file:   sequence/webapp/.next/static/webpack/2e10002b5ab0cc68.webpack.hot-update.json
+#	new file:   sequence/webapp/.next/static/webpack/4bc4a2c9fb9cfc24.webpack.hot-update.json
+#	new file:   sequence/webapp/.next/static/webpack/5f6d132411f06ff5.webpack.hot-update.json
+#	new file:   sequence/webapp/.next/static/webpack/9eec7f6b54884813.webpack.hot-update.json
+#	new file:   sequence/webapp/.next/static/webpack/app/layout.2a05457bff26bdd0.hot-update.js
+#	new file:   sequence/webapp/.next/static/webpack/app/layout.2d0f650e01e93b49.hot-update.js
+#	new file:   sequence/webapp/.next/static/webpack/app/layout.4bc4a2c9fb9cfc24.hot-update.js
+#	new file:   sequence/webapp/.next/static/webpack/app/layout.5f6d132411f06ff5.hot-update.js
+#	new file:   sequence/webapp/.next/static/webpack/app/layout.9eec7f6b54884813.hot-update.js
+#	new file:   sequence/webapp/.next/static/webpack/app/layout.cea50ac074c84057.hot-update.js
+#	new file:   sequence/webapp/.next/static/webpack/app/page.9eec7f6b54884813.hot-update.js
+#	new file:   sequence/webapp/.next/static/webpack/cea50ac074c84057.webpack.hot-update.json
+#	new file:   sequence/webapp/.next/static/webpack/webpack.2a05457bff26bdd0.hot-update.js
+#	new file:   sequence/webapp/.next/static/webpack/webpack.2d0f650e01e93b49.hot-update.js
+#	new file:   sequence/webapp/.next/static/webpack/webpack.2e10002b5ab0cc68.hot-update.js
+#	new file:   sequence/webapp/.next/static/webpack/webpack.4bc4a2c9fb9cfc24.hot-update.js
+#	new file:   sequence/webapp/.next/static/webpack/webpack.5f6d132411f06ff5.hot-update.js
+#	new file:   sequence/webapp/.next/static/webpack/webpack.9eec7f6b54884813.hot-update.js
+#	new file:   sequence/webapp/.next/static/webpack/webpack.cea50ac074c84057.hot-update.js
+#	modified:   sequence/webapp/.next/trace
+#	modified:   sequence/webapp/app/page.tsx
+#	new file:   sequence/webapp/components/FooterContact.tsx
+#	modified:   sequence/webapp/components/Overlay.tsx
+#	modified:   sequence/webapp/components/Projects.tsx
+#	new file:   sequence/webapp/components/Skills.tsx
+#
+# Changes not staged for commit:
+#	modified:   sequence/webapp/.next/trace
+#

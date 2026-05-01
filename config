@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "n"]
+	url = https://github.com/Anshul-data001/Portfolio.git
+	fetch = +refs/heads/*:refs/remotes/n/*
+[branch "main"]
+	vscode-merge-base = n/main
